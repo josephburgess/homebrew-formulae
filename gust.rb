@@ -5,8 +5,8 @@
 class Gust < Formula
   desc "Command line weather app written in go"
   homepage "https://github.com/josephburgess/gust"
-  url "https://github.com/josephburgess/gust/archive/refs/tags/v0.0.5.tar.gz"
-  sha256 "6e94af234d274a973cdf1cd42e85692e234ef640cd3e88a6a98d8cf7a6a1c66e"
+  url "https://github.com/josephburgess/gust/archive/refs/tags/v0.0.6.tar.gz"
+  sha256 "5385f8e93c4785a5d58d1b9bd42392d70f0ea8569b29028a4588c8c16a4dcd8f"
 
   depends_on "go" => :build
 
